@@ -1,5 +1,5 @@
 # 태양광 변동성 대비 LNG 백업 최적화 PoC
-##Solar Adaptive Balancing with Event-aware Reforecasting
+## Solar Adaptive Balancing with Event-aware Reforecasting
 <p align="center">
   <img src="https://img.shields.io/badge/🏆%20진주시%20빅데이터%20공모전-남동발전%20사장상%20수상-FFD700?style=for-the-badge&labelColor=1a1a2e" alt="진주시 빅데이터 공모전 남동발전 사장상 수상" height="40" />
 </p>
